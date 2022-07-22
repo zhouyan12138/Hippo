@@ -1,2 +1,0 @@
-# Hippos
-Hippo_descrip
